@@ -144,7 +144,7 @@ img {
 }
 #contents .click-here {
 	float: right;
-	background: url(ww.jpg) no-repeat center top;
+	background: url(../ww.jpg) no-repeat center top;
 	display: inline-block;
 	height: 162px;
 	width: 301px;
@@ -159,7 +159,7 @@ img {
 }
 /** adbox **/
 #adbox {
-	background: #020a13 url(./cc.jpg) no-repeat center top;
+	background: #020a13 url(../cc.jpg) no-repeat center top;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	min-height: 433px;
 	margin: -56px 0 22px;
@@ -238,7 +238,7 @@ img {
 	opacity:0.8;
 }
 #sidebar .click-here {
-	background: url(back.jpg) no-repeat center top;
+	background: url(../back.jpg) no-repeat center top;
 	display: inline-block;
 	height: 162px;
 	width: 221px;
@@ -484,7 +484,7 @@ img {
 	padding: 0;
 }
 #links ul li {
-	background: url(/border-footer.png) repeat-x left bottom;
+	background: url(../border-footer.png) repeat-x left bottom;
 	margin: 0 0 6px;
 	padding: 3px 0 8px;
 }
