@@ -7,7 +7,7 @@
 	font-style: normal;
 }
 body {
-	background: url(../images/bg-body.jpg) repeat left top;
+	background: url(..bg-body.jpg) repeat left top;
 	font-family: Arial, Helvetica, sans-serif;
 	min-width: 960px;
 	margin: 0;
@@ -29,7 +29,7 @@ img {
 }
 /*------------------------------ HEADER ------------------------------*/
 .btn1, .btn2, .btn3, #newsletter input {
-	background: url(../images/interface.png) no-repeat;
+	background: url(../interface.png) no-repeat;
 }
 .btn1, .btn2, .btn3 {
 	color: #fdfdfd;
@@ -72,7 +72,7 @@ img {
 }
 /*------------------------------ HEADER ------------------------------*/
 #header {
-	background: url(../images/bg-header.png) repeat-x center top;
+	background: url(../bg-header.png) repeat-x center top;
 	height: 50px;
 	padding: 16px 0 0;
 	text-align: right;
@@ -110,7 +110,7 @@ img {
 }
 /*------------------------------ CONTENTS ------------------------------*/
 #contents {
-	background: url(../images/bg-content.png) repeat-x center top;
+	background: url(../bg-content.png) repeat-x center top;
 	margin: 0 0 24px;
 	padding: 56px 0 0;
 }
@@ -144,7 +144,7 @@ img {
 }
 #contents .click-here {
 	float: right;
-	background: url(../images/ww.jpg) no-repeat center top;
+	background: url(./ww.jpg) no-repeat center top;
 	display: inline-block;
 	height: 162px;
 	width: 301px;
@@ -159,7 +159,7 @@ img {
 }
 /** adbox **/
 #adbox {
-	background: #020a13 url(../images/cc.png) no-repeat center top;
+	background: #020a13 url(./cc.png) no-repeat center top;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	min-height: 433px;
 	margin: -56px 0 22px;
@@ -193,7 +193,7 @@ img {
 	color: #176eb0;
 }
 #adbox div.highlight {
-	background: #171a1a url(../images/adbox-bg-heading.jpg) repeat-x left top;
+	background: #171a1a url(../adbox-bg-heading.jpg) repeat-x left top;
 	min-height: 82px;
 	border-color: #000;
 	border-style: solid none;
@@ -238,7 +238,7 @@ img {
 	opacity:0.8;
 }
 #sidebar .click-here {
-	background: url(../images/back.jpg) no-repeat center top;
+	background: url(./back.jpg) no-repeat center top;
 	display: inline-block;
 	height: 162px;
 	width: 221px;
@@ -420,7 +420,7 @@ img {
 	border-top: 1px solid #fdfcfc;
 }
 #footer .body {
-	background: #072438 url(../images/bg-footer.jpg) no-repeat center top;
+	background: #072438 url(../bg-footer.jpg) no-repeat center top;
 	min-height: 136px;
 	padding: 36px 0;
 }
@@ -484,7 +484,7 @@ img {
 	padding: 0;
 }
 #links ul li {
-	background: url(../images/border-footer.png) repeat-x left bottom;
+	background: url(/border-footer.png) repeat-x left bottom;
 	margin: 0 0 6px;
 	padding: 3px 0 8px;
 }
