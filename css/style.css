@@ -144,7 +144,7 @@ img {
 }
 #contents .click-here {
 	float: right;
-	background: url(./ww.jpg) no-repeat center top;
+	background: url(ww.jpg) no-repeat center top;
 	display: inline-block;
 	height: 162px;
 	width: 301px;
@@ -159,7 +159,7 @@ img {
 }
 /** adbox **/
 #adbox {
-	background: #020a13 url(./cc.png) no-repeat center top;
+	background: #020a13 url(./cc.jpg) no-repeat center top;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	min-height: 433px;
 	margin: -56px 0 22px;
